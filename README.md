@@ -8,4 +8,4 @@
 
 + [Logo](http://logo.apicra.com)
 
-[Logo](http://logo.apicra.com/apicra_logo.png)
+![Logo](http://logo.apicra.com/apicra_logo.png)
