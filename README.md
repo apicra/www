@@ -30,4 +30,4 @@ This is one defined layer more between application and environment to controll i
 
 + [Logo](http://logo.apicra.com)
 
-![Logo](http://logo.apicra.com/apicra_logo.png)
+![Logo](http://logo.apicra.com/apicra-logo.png)
