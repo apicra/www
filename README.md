@@ -2,7 +2,7 @@
 + [www.apicra.com](https://www.apicra.com/)
 + https://github.com/apicra/www
 
-Softreck Apicra product is delivering the scripts needed to deploy applications and solutions across any architectures on many enironments, such:
+Softreck Apicra is delivering the scripts needed to deploy applications and solutions across any architectures on many enironments, such:
 + Linux
 + Mac OS
 + Windows
