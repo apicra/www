@@ -12,7 +12,7 @@ Softreck Apicra is delivering shell scripts needed to deploy applications and so
 is defining native OS scripts to generate enironment based on current system.
 It's help to make a standarisated enironment modules, such python environment with definied versions used in your organisation
 
-Code and Enironment are created as spearated repository but working togheter.
+Code and Enironment are created as sepearated repository but working togheter.
 To use Application, create environment and use it depends your server or local machine environment.
 
 This is one defined layer more between application and environment to controll it not depends virtualisation in docker or another virtualisation.
