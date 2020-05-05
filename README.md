@@ -2,13 +2,14 @@
 + [www.apicra.com](https://www.apicra.com/)
 + https://github.com/apicra/www
 
-Softreck Apicra is delivering the scripts needed to deploy applications and solutions across any architectures on many enironments, such:
+Softreck Apicra is delivering shell scripts needed to deploy applications and solutions across any architectures and enironments, such:
 + Linux
 + Mac OS
 + Windows
 
 ## The Apicra solution
-is defining native scripts to generate enironment
+
+is defining native OS scripts to generate enironment based on current system.
 It's help to make a standarisated enironment modules, such python environment with definied versions used in your organisation
 
 Code and Enironment are created as spearated repository but working togheter.
