@@ -25,10 +25,10 @@ This is one defined layer more between application and environment to controll i
 
 ## More information
 
-+ [Documentation](http://docs.apicra.com)
++ [Documentation](https://docs.apicra.com)
 
-+ [Blog](http://blog.apicra.com)
++ [Blog](https://blog.apicra.com)
 
-+ [Logo](http://logo.apicra.com)
++ [Logo](https://logo.apicra.com)
 
-![Logo](http://logo.apicra.com/apicra-logo.png)
+![Logo](https://logo.apicra.com/apicra-logo.png)
