@@ -48,5 +48,3 @@ This is one defined layer more between application and environment to controll i
 + [Blog](https://blog.apicra.com)
 
 + [Logo](https://logo.apicra.com)
-
-![Logo](https://logo.apicra.com/apicra-logo.png)
