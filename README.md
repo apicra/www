@@ -1,6 +1,6 @@
 + [polish version - PL](https://www.apicra.com/README_PL.html)
 
-# [APIcra](http://www.apicra.com)
+# [APIcra](https://www.apicra.com)
 
 ![apicra-logo.png](https://logo.apicra.com/apicra-logo.png)
 

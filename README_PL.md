@@ -1,6 +1,6 @@
 + [Wersja angielska - EN](https://www.apicra.com/)
 
-# [APIcra](http://www.apicra.com)
+# [APIcra](https://www.apicra.com)
 
 ![apicra-logo.png](https://logo.apicra.com/apicra-logo.png)
 
