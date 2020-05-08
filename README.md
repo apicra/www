@@ -41,6 +41,8 @@ This is one defined layer more between application and environment to controll i
 
     DOWNLOAD -> INSTALL -> RESTART
 
+Each script has as first "echo" line, the information for what he is started
+
 Each scripts is responsibly and check if some data or application are existing
 + if APP is INSTALLed
 + if FILE is DOWNLOADed
