@@ -37,6 +37,14 @@ To use Application, create environment and use it depends your server or local m
 
 This is one defined layer more between application and environment to controll it not depends virtualisation in docker or another virtualisation.
 
+## just USE it
+
+    DOWNLOAD -> INSTALL -> RESTART
+
+Each scripts is responsibly and check if some data or application are existing
++ if APP is INSTALLed
++ if FILE is DOWNLOADed
+
 
 ## Example with ProMaGen
 + code: https://github.com/promagen/one
