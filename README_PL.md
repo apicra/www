@@ -58,10 +58,15 @@ This is one defined layer more between application and environment to controll i
 + environment for debian linux: [promagen/debian: Environment prepared to execute ProMaGen on Linux (Debian) OS](https://github.com/promagen/debian)
 
 
-# Projekt APIcra jest wspierany przez [API Foundation](https://www.apifoundation.com)
 
-We started in 2018 with few concepts but one idea: fastest development.
-Now, in 2020 we are giving solutions:
+# [API Foundation](https://www.apifoundation.com)
+
+Projekt APIcra jest wspierany przez [API Foundation](https://www.apifoundation.com)
+
+Wystartowaliśmy w roku 2018 z kilkoma pomysłami ale jedną ideą:
++ szybsze wytwarzanie orogramowania
+
+Dziś, w roku 2020 dajemy rozwiązania w kilku obszarach:
 
 + [APIexec - executor library for shell scripts](https://www.apiexec.com)
 + [APIcra - shell scripts libraries](https://www.apicra.com)
