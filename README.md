@@ -51,7 +51,7 @@ Each scripts is responsibly and check if some data or application are existing
 
 
 
-# The project is supported by [API Foundation](https://apifoundation.com)
+# The project is supported by [API Foundation](https://www.apifoundation.com)
 We started in 2018 with few concepts but one idea: fastest development.
 Now, in 2020 we are giving solutions:
 
