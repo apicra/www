@@ -2,19 +2,24 @@
 
 # [APIcra](https://www.apicra.com)
 
-![apicra-logo.png](https://logo.apicra.com/apicra-logo.png)
-
 https://github.com/apicra
 
-## Apicra
-+ [Strona domowa www.apicra.com](https://www.apicra.com/)
-+ [apicra/www: About project, Landing page](https://github.com/apicra/www)
+![apicra-logo.png](https://logo.apicra.com/apicra-logo.png)
 
+## Więcej informacji
+
++ [Strona domowa www.apicra.com](https://www.apicra.com/)
++ [Blog](https://blog.apicra.com)
+
++ [apicra/www: About project, Landing page](https://github.com/apicra/www)
++ [Dokumentacja](https://docs.apicra.com)
++ [Logo](https://logo.apicra.com)
 
 Apicra is delivering shell scripts needed to deploy applications and solutions across any architectures and enironments, such:
 + Linux
 + Mac OS
 + Windows
+
 
 ## Python
 
@@ -42,15 +47,6 @@ This is one defined layer more between application and environment to controll i
 + code: https://github.com/promagen/one
 + environment for windows: https://github.com/promagen/windows
 + environment for debian linux: https://github.com/promagen/debian
-
-## More information
-
-+ [Documentation](https://docs.apicra.com)
-
-+ [Blog](https://blog.apicra.com)
-
-+ [Logo](https://logo.apicra.com)
-
 
 
 # Projekt APIcra jest wspierany przez [API Foundation](https://apifoundation.com)

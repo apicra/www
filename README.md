@@ -6,20 +6,17 @@
 
 https://github.com/apicra
 
-# The project is supported by [API Foundation](https://apifoundation.com)
-We started in 2018 with few concepts but one idea: fastest development.
-Now, in 2020 we are giving solutions:
 
-+ [APIexec - executor library for shell scripts](https://www.apiexec.com)
-+ [APIcra - shell scripts libraries](https://www.apicra.com)
-+ [APIunit - definition of application, CI, CD](https://www.apiunit.com)
-+ [APIbuild - build process definition, focused on quality, versioning](https://www.apibuild.com)
-+ [APIsql - data bases, queries, models](https://www.apisql.com)
-+ [APIfunc - FaaS solutions](https://www.apifunc.com)
+## More information
 
-## Apicra solution by Softreck
 + [www.apicra.com](https://www.apicra.com/)
-+ https://github.com/apicra/www
++ [Blog](https://blog.apicra.com)
+
++ [apicra/www: About project, Landing page](https://github.com/apicra/www)
++ [Documentation](https://docs.apicra.com)
++ [Logo](https://logo.apicra.com)
+
+
 
 Softreck Apicra is delivering shell scripts needed to deploy applications and solutions across any architectures and enironments, such:
 + Linux
@@ -52,10 +49,15 @@ Each scripts is responsibly and check if some data or application are existing
 + environment for windows: https://github.com/promagen/windows
 + environment for debian linux: https://github.com/promagen/debian
 
-## More information
 
-+ [Documentation](https://docs.apicra.com)
 
-+ [Blog](https://blog.apicra.com)
+# The project is supported by [API Foundation](https://apifoundation.com)
+We started in 2018 with few concepts but one idea: fastest development.
+Now, in 2020 we are giving solutions:
 
-+ [Logo](https://logo.apicra.com)
++ [APIexec - executor library for shell scripts](https://www.apiexec.com)
++ [APIcra - shell scripts libraries](https://www.apicra.com)
++ [APIunit - definition of application, CI, CD](https://www.apiunit.com)
++ [APIbuild - build process definition, focused on quality, versioning](https://www.apibuild.com)
++ [APIsql - data bases, queries, models](https://www.apisql.com)
++ [APIfunc - FaaS solutions](https://www.apifunc.com)
