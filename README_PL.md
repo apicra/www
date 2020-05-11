@@ -6,23 +6,10 @@
 
 https://github.com/apicra
 
+## Apicra
++ [Strona domowa www.apicra.com](https://www.apicra.com/)
++ [apicra/www: About project, Landing page](https://github.com/apicra/www)
 
-# Projekt APIcra jest wspierany przez [API Foundation](https://apifoundation.com)
-
-We started in 2018 with few concepts but one idea: fastest development.
-Now, in 2020 we are giving solutions:
-
-+ [APIexec - executor library for shell scripts](https://www.apiexec.com)
-+ [APIcra - shell scripts libraries](https://www.apicra.com)
-+ [APIunit - definition of application, CI, CD](https://www.apiunit.com)
-+ [APIbuild - build process definition, focused on quality, versioning](https://www.apibuild.com)
-+ [APIsql - bazy danych, zapytania, modele](https://www.apisql.com)
-+ [APIfunc - rozwiązania dla FaaS](https://www.apifunc.com)
-
-
-## Apicra solution by Softreck
-+ [www.apicra.com](https://www.apicra.com/)
-+ https://github.com/apicra/www
 
 Apicra is delivering shell scripts needed to deploy applications and solutions across any architectures and enironments, such:
 + Linux
@@ -31,7 +18,7 @@ Apicra is delivering shell scripts needed to deploy applications and solutions a
 
 ## Python
 
-Python jest wyjątkowo wszechstronnym językiem w każdym tego słowa znaczeniu:
+Język python jest wyjątkowo wszechstronny w każdym tego słowa znaczeniu:
 + Technologicznie jest on wykorzystywany do tworzenia różnego rodzaju aplikacji od prostych skryptów systemowych wykonywanych na serwerze po skomplikowane obiektowe aplikacje obsługujące miliony użytkowników.
 + Społecznie, każda z kluczowych grupo społecznych od naukowej od dziecka do profesora, poprzez przemysł, finanse do sztucznej inteligencji.
 
@@ -63,3 +50,17 @@ This is one defined layer more between application and environment to controll i
 + [Blog](https://blog.apicra.com)
 
 + [Logo](https://logo.apicra.com)
+
+
+
+# Projekt APIcra jest wspierany przez [API Foundation](https://apifoundation.com)
+
+We started in 2018 with few concepts but one idea: fastest development.
+Now, in 2020 we are giving solutions:
+
++ [APIexec - executor library for shell scripts](https://www.apiexec.com)
++ [APIcra - shell scripts libraries](https://www.apicra.com)
++ [APIunit - definition of application, CI, CD](https://www.apiunit.com)
++ [APIbuild - build process definition, focused on quality, versioning](https://www.apibuild.com)
++ [APIsql - bazy danych, zapytania, modele](https://www.apisql.com)
++ [APIfunc - rozwiązania dla FaaS](https://www.apifunc.com)
