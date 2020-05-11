@@ -6,9 +6,8 @@
 
 https://github.com/apicra
 
-The project is supported by [API Foundation](https://apifoundation.com)
 
-## [API Foundation](https://apifoundation.com) Solutions
+# Projekt jest wspierany przez [API Foundation](https://apifoundation.com)
 We started in 2018 with few concepts but one idea: fastest development.
 Now, in 2020 we are giving solutions:
 
@@ -24,10 +23,19 @@ Now, in 2020 we are giving solutions:
 + [www.apicra.com](https://www.apicra.com/)
 + https://github.com/apicra/www
 
-Softreck Apicra is delivering shell scripts needed to deploy applications and solutions across any architectures and enironments, such:
+Apicra is delivering shell scripts needed to deploy applications and solutions across any architectures and enironments, such:
 + Linux
 + Mac OS
 + Windows
+
+## Python
+
+Python jest wyjątkowo wszechstronnym językiem i jest on wykorzystywany do tworzenia różnego rodzaju aplikacji,  
+ od prostych skryptów systemowych wykonywanych na serwerze po skomplikowane obiektowe aplikacje obsługujące miliony użytkowników.
+Dlatego równolegle z językami skrypotwamy dedykowanymi dla określonych systemów, będziemy wspierać język Python,
+by w przyszłości na nim opierać bardziej uniwersalne i elastyczne rozwiązania.
+
+
 
 ## The Apicra solution
 
