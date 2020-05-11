@@ -31,11 +31,13 @@ Apicra is delivering shell scripts needed to deploy applications and solutions a
 
 ## Python
 
-Python jest wyjątkowo wszechstronnym językiem i jest on wykorzystywany do tworzenia różnego rodzaju aplikacji,  
- od prostych skryptów systemowych wykonywanych na serwerze po skomplikowane obiektowe aplikacje obsługujące miliony użytkowników.
-Dlatego równolegle z językami skrypotwamy dedykowanymi dla określonych systemów, będziemy wspierać język Python,
-by w przyszłości na nim opierać bardziej uniwersalne i elastyczne rozwiązania.
+Python jest wyjątkowo wszechstronnym językiem w każdym tego słowa znaczeniu:
++ Technologicznie jest on wykorzystywany do tworzenia różnego rodzaju aplikacji od prostych skryptów systemowych wykonywanych na serwerze po skomplikowane obiektowe aplikacje obsługujące miliony użytkowników.
++ Społecznie, każda z kluczowych grupo społecznych od naukowej od dziecka do profesora, poprzez przemysł, finanse do sztucznej inteligencji.
 
+Dlatego równolegle z językami skrypotwamy dedykowanymi dla określonych systemów, będziemy wspierać język Python, by w przyszłości na nim opierać bardziej uniwersalne i elastyczne rozwiązania.
+
+Obecnie Python jest równie ekspresyjnym językiem jak Lua, umożliwiającym tworzenie aplikacji opartych na koprocedurach.
 
 
 ## The Apicra solution
