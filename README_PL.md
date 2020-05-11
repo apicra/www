@@ -7,7 +7,8 @@
 https://github.com/apicra
 
 
-# Projekt jest wspierany przez [API Foundation](https://apifoundation.com)
+# Projekt APIcra jest wspierany przez [API Foundation](https://apifoundation.com)
+
 We started in 2018 with few concepts but one idea: fastest development.
 Now, in 2020 we are giving solutions:
 
