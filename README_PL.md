@@ -48,11 +48,14 @@ To use Application, create environment and use it depends your server or local m
 
 This is one defined layer more between application and environment to controll it not depends virtualisation in docker or another virtualisation.
 
+[APIexec/npm-github-win: Scripts for Development, Using Github, Npmjs, Bash commands (version for windows only), version for linux npm-github-linux](https://github.com/APIexec/npm-github-win)
+
+[apicra/docs-generator: Documentation generator for each package, automatically](https://github.com/apicra/docs-generator)
 
 ## Example with ProMaGen
-+ code: https://github.com/promagen/one
-+ environment for windows: https://github.com/promagen/windows
-+ environment for debian linux: https://github.com/promagen/debian
++ code: [promagen/one: scripts for one project in one folder](https://github.com/promagen/one)
++ environment for windows: [promagen/windows: Environment prepared to execute ProMaGen on windows OS](https://github.com/promagen/windows)
++ environment for debian linux: [promagen/debian: Environment prepared to execute ProMaGen on Linux (Debian) OS](https://github.com/promagen/debian)
 
 
 # Projekt APIcra jest wspierany przez [API Foundation](https://apifoundation.com)
