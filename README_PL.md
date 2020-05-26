@@ -34,6 +34,7 @@ Skrypty te są dostarczane w kilku typach:
 
 
 ### archive zip
+to może być program lub dane zarchiwizowane wcześniej, np backup bazy danych, wówczas np zrzut bazy danych był wykonany przez serwis backup z własnymi metodami: restore/backup
 + Unpack
 + Pack
 
@@ -58,7 +59,8 @@ case: store-from-store, sourcecode-from-download, Unpack-package-archive
 + Remove
 
 
-### service
+
+### service-unlimited time
 Usługa już istnieje lub została wcześniej pobrana jako paczka, 
 zawiera metody konieczne do uruchomienia i zatrzymania usługi oraz sprawdzenia statusu: 
 case: store-from-store, sourcecode-from-download
@@ -66,6 +68,13 @@ case: store-from-store, sourcecode-from-download
 + Stop
 + Restart
 + Status
+
+
+### service-one time, dedicated 
+Usługa wykorzystywana do wykonania jednego działania
+np utworzenie kopii zapasowej lub jej odtworzenie, wówczas metody są dedykowane, mają własne nazwy w zalezności od uzycia
++ backup
++ restore
 
 
 *w pierwszej wersji APIcra była zbiorem skryptów, wkrótce dużo skryptów miało podobne metody i stąd warto było je podzielić na te dwie podstawowe grupy
