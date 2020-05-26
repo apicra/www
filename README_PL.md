@@ -26,21 +26,42 @@ Softreck Apicra dostarcza skrypty powłoki potrzebne do przygotowania środowisk
 ## Jak to działa?
 
 Skrypty te są dostarczane w kilku typach:
-+ package
++ archive
++ data
++ sourcecode
++ store
 + service
 
 
-### package
+### archive zip
++ Unpack
++ Pack
+
+
+### data/code repository /receiver /end user
 Paczka plików to kod, pliki binarne lub skrypty potrzebne do przygotowania środowiska, 
 zawiera metody konieczne do pobrania na dysk, zainstalowania, usunięcia i zaktualizowania plików:
 + Download
++ Update
++ Delete
+
+
+### sourcecode repository, media /contributor
++ Create (only local)
++ Destroy (Delete local and remotely)
++ Publish (update, merge, deploy)
+
+
+### in store librayr/software/db-data, some data or software, software package internal binary, library
+case: store-from-store, sourcecode-from-download, Unpack-package-archive
 + Install
 + Remove
-+ Update
+
 
 ### service
 Usługa już istnieje lub została wcześniej pobrana jako paczka, 
 zawiera metody konieczne do uruchomienia i zatrzymania usługi oraz sprawdzenia statusu: 
+case: store-from-store, sourcecode-from-download
 + Start
 + Stop
 + Restart
