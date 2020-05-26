@@ -15,12 +15,39 @@ https://github.com/apicra
 + [Dokumentacja](https://docs.apicra.com)
 + [Logo](https://logo.apicra.com)
 
-Apicra is delivering shell scripts needed to deploy applications and solutions across any architectures and enironments, such:
+
+## Co to jest APIcra?
+
+Softreck Apicra dostarcza skrypty powłoki potrzebne do przygotowania środowiska w celu uruchomienia aplikacji na systemach takich jak:
 + Linux
 + Mac OS
 + Windows
 
+## Jak to działa?
 
+Skrypty te są dostarczane w kilku typach:
++ package
++ service
+
+
+### package
+Paczka plików ma metody konieczne do pobrania na dysk, zainstalowania, usunięcia i zaktualizowania plików:
++ Download
++ Install
++ Remove
++ Update
+
+### service
+Usługa zaiwera metody konieczne do uruchomienia i zatrzymania usługi oraz sprawdzenia statusu: 
++ Start
++ Stop
++ Restart
++ Status
+
+
+*w pierwszej wersji APIcra była zbiorem skryptów, wkrótce dużo skryptów miało podobne metody i stąd warto było je podzielić na te dwie podstawowe grupy
+by łatwiej można było ustandaryzować późniejsze użycie.
+ 
 ## Python
 
 Język python jest wyjątkowo wszechstronny w każdym tego słowa znaczeniu:

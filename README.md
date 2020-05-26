@@ -18,7 +18,7 @@ https://github.com/apicra
 
 
 
-Softreck Apicra is delivering shell scripts needed to deploy applications and solutions across any architectures and enironments, such:
+Softreck Apicra is delivering shell scripts needed to deploy applications and solutions across any architectures and environments, such:
 + Linux
 + Mac OS
 + Windows
