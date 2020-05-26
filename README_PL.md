@@ -31,14 +31,16 @@ Skrypty te są dostarczane w kilku typach:
 
 
 ### package
-Paczka plików ma metody konieczne do pobrania na dysk, zainstalowania, usunięcia i zaktualizowania plików:
+Paczka plików to kod, pliki binarne lub skrypty potrzebne do przygotowania środowiska, 
+zawiera metody konieczne do pobrania na dysk, zainstalowania, usunięcia i zaktualizowania plików:
 + Download
 + Install
 + Remove
 + Update
 
 ### service
-Usługa zaiwera metody konieczne do uruchomienia i zatrzymania usługi oraz sprawdzenia statusu: 
+Usługa już istnieje lub została wcześniej pobrana jako paczka, 
+zawiera metody konieczne do uruchomienia i zatrzymania usługi oraz sprawdzenia statusu: 
 + Start
 + Stop
 + Restart
