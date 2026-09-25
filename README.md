@@ -3,8 +3,8 @@
 # [APIcra](https://www.apicra.com)
 
 ![apicra-logo.png](https://logo.apicra.com/apicra-logo.png)
-
-https://github.com/apicra
++ ![apicra-logo.png](https://github.com/apicra/logo/blob/master/apicra-logo.png)
++ [github](https://github.com/apicra)
 
 
 ## More information
